@@ -1,6 +1,6 @@
 # CI-CD
 [![CI](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml/badge.svg)](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml)
-[![CI](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml/badge.svg)](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml)
+
 ## Overview
 
  
