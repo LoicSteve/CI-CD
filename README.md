@@ -1,15 +1,16 @@
 # CI-CD
+[![CI](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml/badge.svg)](https://github.com/LoicSteve/CI-CD/actions/workflows/cicd.yml)
+## Overview
 
-##Overview
-
+ 
 In this lab, we will learn how to implement Continuous Integration (CI) and Continuous Deployment (CD) processes using a Makefile and the Click test runner. We will perform linting, formatting, refactoring, and testing on a Python script to ensure its quality and functionality.
 
-##Goals
+## Goals
 1. Understand the importance of CI/CD processes in MLOps.
 2. Learn how to use a Makefile for automating linting, formatting, refactoring, and testing.
 3. Gain experience in writing tests for command-line tools using the Click test runner.
 
-##Getting started
+## Getting started
 
 1. Source the virtual environment:
 source /home/coder/venv/bin/activate
